@@ -50,16 +50,7 @@ export function Hero() {
                         </p>
                     </motion.div>
 
-                    <motion.div
-                        initial={{ opacity: 0, y: 20 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ duration: 0.5, delay: 0.2 }}
-                        className="flex flex-col sm:flex-row gap-4 pt-4"
-                    >
-                        <Button size="lg" className="bg-primary hover:bg-primary/90 text-white rounded-full px-8 h-12 text-base font-medium" asChild>
-                            <a href="#projects">Explore Projects</a>
-                        </Button>
-                    </motion.div>
+
                 </div>
             </div>
 
