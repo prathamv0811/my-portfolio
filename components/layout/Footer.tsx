@@ -1,12 +1,12 @@
 import Link from "next/link";
 import { Github, Linkedin, Mail, Twitter } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Donation } from "@/components/sections/Donation";
+
 
 export function Footer() {
     return (
         <>
-            <Donation />
+
             <footer className="bg-background border-t border-border/40 py-8">
                 <div className="container mx-auto px-4 md:px-6 flex flex-col md:flex-row justify-between items-center gap-4">
                     <div className="flex items-center gap-2">
