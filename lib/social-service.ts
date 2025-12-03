@@ -32,7 +32,7 @@ const FEATURED_POSTS: SocialPost[] = [
     {
         id: "featured-2",
         platform: "linkedin",
-        content: "💡 Reflecting on the journey of building Neural Stride Labs. It's been an incredible ride so far. Read more about our vision and progress. #Startup #Founder #Innovation",
+        content: "💡 Reflecting on the journey of building General Intelligence. It's been an incredible ride so far. Read more about our vision and progress. #Startup #Founder #Innovation",
         date: "Featured",
         link: "https://www.linkedin.com/feed/update/urn:li:activity:7371607848587505664/",
         likes: 95,
@@ -69,7 +69,7 @@ export async function getSocialPosts(): Promise<SocialPost[]> {
             {
                 id: "1",
                 platform: "linkedin",
-                content: "Excited to announce that I've started my journey as Founder & Lead Researcher at Neural Stride Labs! We're building the next generation of generalist embodied agents. Stay tuned for updates on our first dataset release. 🚀 #Robotics #AI #Startup",
+                content: "Excited to announce that I've started my journey as Founder & Lead Researcher at General Intelligence! We're building the next generation of generalist embodied agents. Stay tuned for updates on our first dataset release. 🚀 #Robotics #AI #Startup",
                 date: "2 days ago",
                 link: "https://www.linkedin.com/in/pratham-v-jain-mehta-59a23a1ba/",
                 likes: 342,
@@ -87,7 +87,7 @@ export async function getSocialPosts(): Promise<SocialPost[]> {
             {
                 id: "3",
                 platform: "youtube",
-                content: "Demo: Neural Stride's new cloth folding policy in action. Trained on 3000 hours of teleoperated data. 🤖👕",
+                content: "Demo: General Intelligence's new cloth folding policy in action. Trained on 3000 hours of teleoperated data. 🤖👕",
                 date: "2 weeks ago",
                 link: "#",
                 image: "https://cdn.pixabay.com/photo/2017/09/25/11/55/cyborg-2784280_1280.jpg",

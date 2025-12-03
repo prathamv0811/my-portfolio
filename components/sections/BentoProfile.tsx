@@ -7,8 +7,8 @@ import { SpotlightCard } from "@/components/ui/spotlight-card";
 
 const experiences = [
     {
-        role: "Founder & Lead Researcher (Building it)",
-        company: "Neural Stride Labs",
+        role: "Founder & Lead Researcher",
+        company: "General Intelligence",
         companyUrl: "#",
         period: "Present",
     },

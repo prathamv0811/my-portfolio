@@ -8,7 +8,7 @@ Here is a "Deep Tech" style LinkedIn post to announce your new portfolio.
 
 I’m excited to share my new personal portfolio—a digital home for my work in **Robotics**, **Deep Tech**, and **Embodied AI**.
 
-As the Founder of **Neural Stride Labs**, I wanted a space that reflects the precision and futurism of the systems we build. This isn't just a resume; it's a window into my research, projects, and the journey of building generalist agents.
+As the Founder of **General Intelligence**, I wanted a space that reflects the precision and futurism of the systems we build. This isn't just a resume; it's a window into my research, projects, and the journey of building generalist agents.
 
 **🚀 Key Features:**
 *   **Deep Tech Aesthetic**: Glassmorphism, mesh gradients, and a "lab-like" dark mode.
@@ -22,7 +22,7 @@ Check it out here: [Your Vercel Link]
 
 I’m always open to connecting with fellow researchers, engineers, and builders in the embodied AI space. Let me know what you think!
 
-#Robotics #DeepTech #EmbodiedAI #Portfolio #NextJS #WebDesign #NeuralStride #Startup #AI
+#Robotics #DeepTech #EmbodiedAI #Portfolio #NextJS #WebDesign #GeneralIntelligence #Startup #AI
 
 ***
 
